@@ -1,0 +1,14 @@
+{
+  "name": "cleans",
+  "version": "1.0.0",
+  "description": "Polinova Project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Emiliano",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
